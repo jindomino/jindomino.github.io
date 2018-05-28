@@ -1,1 +1,1 @@
-# jindomino.github.io
+# jindomino
